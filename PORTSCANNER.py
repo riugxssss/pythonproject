@@ -183,4 +183,5 @@ def main():
             sys.exit()
 
 # Avvio dello script
+if __name__ == __main__:
 main()
